@@ -100,4 +100,4 @@ Follow the steps below to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/piyush-agrawal6/Hospital-Management-System.git
+git clone git@github.com:saurya25122001/hospital-management-system.git
