@@ -101,3 +101,8 @@ Follow the steps below to run the project locally:
 ### 1. Clone the repository
 ```bash
 git clone git@github.com:saurya25122001/hospital-management-system.git
+2. Navigate to the project folder
+cd Hospital-Management-System
+3. Install dependencies
+npm install
+4. Start the development server
